@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aagatsharma" alt="aagatsharma" /></a> </p>
 
-- 🔭 I’m currently working on **Neptunes**
+- 👯 I’m looking to collaborate on **React/Next.js/Node.js Projects**
 
 - 👨‍💻 All of my projects are available at [https://aagatsharma.com.np | https://aagatsharma.vercel.app/](https://aagatsharma.com.np | https://aagatsharma.vercel.app/)
 
@@ -24,6 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aagatsharma&show_icons=true&locale=en&layout=compact" alt="aagatsharma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aagatsharma&show_icons=true&locale=en" alt="aagatsharma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aagatsharma&" alt="aagatsharma" /></p>
 
