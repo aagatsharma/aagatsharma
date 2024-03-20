@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React/Next.js/Node.js Projects**
 
-- 👨‍💻 All of my projects are available at [https://aagatsharma.com.np | https://aagatsharma.vercel.app/](https://aagatsharma.com.np | https://aagatsharma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aagatsharma.com.np | https://aagatsharma.vercel.app/]
 
 - 📫 How to reach me **aagats72@gmail.com**
 
