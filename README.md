@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aagat Sharma</h1>
 <h3 align="center">A passionate fullstack developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aagatsharma&label=Profile%20views&color=0e75b6&style=flat" alt="aagatsharma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aagatsharma" alt="aagatsharma" /></a> </p>
 
 - 👯 I’m looking to collaborate on **React/Next.js/Node.js Projects**
 
